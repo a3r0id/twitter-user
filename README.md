@@ -81,7 +81,7 @@ print("Account Description: \n%s" % me.description)
 
 
 # Testing w/ Jack's profile
-jack = API.fetchUser("hostinfodev")
+jack = API.fetchUser("jack")
 
 print(jack.name, "@", jack.screen_name)
 
