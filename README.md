@@ -1,4 +1,4 @@
-# twitter-user
+# twitter-user (Outdated)
 
  A light & organized Python module built with the sole purpose of extracting a Twitter user-object while conforming to Tweepy standards, all without using Twitter's authenticated API.
 
