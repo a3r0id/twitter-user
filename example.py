@@ -8,7 +8,7 @@ twitterUser = TwitterUser()
 
 
 # Testing w/ my profile
-me = twitterUser.fetchUser("hostinfodev")
+me = twitterUser.fetchUser("rec0ndev")
 
 print("User's screen appearance is \"%s\"" % me.name + "@" + me.screen_name )
 
