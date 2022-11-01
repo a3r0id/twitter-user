@@ -57,7 +57,7 @@ API = TwitterUser()
 
 
 # Testing w/ my profile
-me = API.fetchUser("hostinfodev")
+me = API.fetchUser("rec0ndev")
 
 print("User's screen appearance is \"%s\"" % me.name + "@" + me.screen_name )
 
